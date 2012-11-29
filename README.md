@@ -12,6 +12,8 @@ sudo easy_install requests
 </pre>
 
 ### Run in terminal in your ing_direct directory 
+<pre>
 watch -n30 python wifi.py PASSWORD
+</pre>
 
 ## Profit!
