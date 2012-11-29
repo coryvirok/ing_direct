@@ -5,10 +5,12 @@ ing_direct
 * San Francisco location: http://goo.gl/maps/HcpWn
 
 ### Dependencies
-* brew install watch
-* sudo easy_install requests
+<pre>
+brew install watch
+sudo easy_install requests
+<pre>
 
-### Run this in command line in your ing_direct directory 
+### Run in terminal in your ing_direct directory 
 * watch -n30 python wifi.py PASSWORD
 
 ## Profit!
