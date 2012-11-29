@@ -1,7 +1,8 @@
 ing_direct
 ==========
 
-Keep yourself logged into the ING Direct cafe's wifi at this San Francisco location: http://goo.gl/maps/HcpWn
+### Keep yourself logged in at ING Direct cafe's wifi
+* San Francisco location: http://goo.gl/maps/HcpWn
 
 ### Dependencies
 * brew install watch
@@ -9,3 +10,5 @@ Keep yourself logged into the ING Direct cafe's wifi at this San Francisco locat
 
 ### Run this in command line in your ing_direct directory 
 * watch -n30 python wifi.py PASSWORD
+
+## Profit!
