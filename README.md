@@ -3,6 +3,7 @@ ing_direct
 
 ### Keep yourself logged in at ING Direct cafe's wifi
 * San Francisco location: http://goo.gl/maps/HcpWn
+* join the Direct-Cafe network (not Direct-Guest)
 
 ### Dependencies
 <pre>
@@ -11,6 +12,6 @@ sudo easy_install requests
 </pre>
 
 ### Run in terminal in your ing_direct directory 
-* watch -n30 python wifi.py PASSWORD
+watch -n30 python wifi.py PASSWORD
 
 ## Profit!
