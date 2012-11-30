@@ -16,4 +16,4 @@ sudo easy_install requests
 watch -n30 python wifi.py PASSWORD
 </pre>
 
-## Profit!
+### Profit!
